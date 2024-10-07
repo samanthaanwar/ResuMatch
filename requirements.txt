@@ -1,0 +1,8 @@
+langchain_core
+streamlit
+langchain_groq
+langchain_community
+langchain
+pyyaml
+pypdf
+bs4
